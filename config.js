@@ -13,10 +13,7 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
-        hearts: ['❤️'],  // Heart emojis
     
-    },
 
     // Questions and answers
     // Customize each question and its possible responses
@@ -49,7 +46,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest girl in the world! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest girl in the world! 🎉",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁"  // These will bounce around
     },
